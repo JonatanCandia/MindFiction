@@ -1,0 +1,18 @@
+#titulo { font-family:monospace;text-align: center;}
+.body{background-color: rgb(43, 138, 101);}
+#bar{background-color: rgb(5, 87, 80);}
+.logo{text-align: center;}
+#fondo{background-image: url(Visual/Fondo.png);text-align: center;}
+.bien{text-align: center; color: aliceblue;}
+.aqui{ color: aliceblue; text-align: center;}
+#eres{color: aliceblue; background-color:rgb(8, 104, 67) ;opacity: 0.7;}
+.verse{color: aliceblue;}
+#deco{text-align: center; opacity: 0.2;}
+.cuadro{background-color: rgb(8, 104, 67);opacity: 0.7;}
+.linea{color: aliceblue;}
+.sesión{text-align: center;}
+.iniciar{text-align: center; color: aliceblue;}
+.bar2{background-color: rgb(5, 87, 80);}
+.crea{text-align: center;}
+.body2{background-color: rgb(43, 138, 101); background-image: url(Visual/Fondo.png);}
+.iniciar2{text-align: center; color: aliceblue; background-color:rgb(8, 104, 67) ;;opacity: 0.7;}
